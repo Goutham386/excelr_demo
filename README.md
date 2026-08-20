@@ -1,3 +1,3 @@
-# excelr_demo
+# git_demo
 this is my first repository
-Author - Goutham386
+Author - LachiGoutham338
